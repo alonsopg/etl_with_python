@@ -1,0 +1,34 @@
+YO_COMPRE_ESTE_MODELO_DE_LAVADORA_EN_EL yo_compre_este_modelo_de_lavadora_en_el NP00000 1
+AÑO_1998 [??:??/??/1998:??.??:??] W 1
+Y_HASTA_HOY y_hasta_hoy NP00000 1
+30.-5-12 30.-5-12 Z 1
+NO_HABIA_TENIDO_NINGUN_PROBLEMA no_habia_tenido_ningun_problema NP00000 1
+, , Fc 1
+PERO_AHORA_SE_HA_DISLOCADO pero_ahora_se_ha_dislocado NP00000 1
+, , Fc 1
+LAVA_CUANDO_KIERE lava_cuando_kiere NP00000 1
+, , Fc 1
+EN_MITAD_DE_EL_PROGRAMA_ENJUAGA_Y_NO_LAVA en_mitad_de_el_programa_enjuaga_y_no_lava NP00000 1
+, , Fc 1
+EN_EL_CENTRIFUGADO_NO_TERMINA_DE_ARRANCAR_Y_SI_LO_HACE_NO_LO_TERMINA_Y_TODO_ESTO_SEGUIDO_DE_UN_TIC en_el_centrifugado_no_termina_de_arrancar_y_si_lo_hace_no_lo_termina_y_todo_esto_seguido_de_un_tic NP00000 1
+. . Fp 1
+
+TAC_SONORO_EN_EL_CUAL_VA_DESCONTANDO_MINUTOS_PERO_SE_KEDA_PARADA_Y_NO_HACE_SU_FUNCION tac_sonoro_en_el_cual_va_descontando_minutos_pero_se_keda_parada_y_no_hace_su_funcion NP00000 1
+. . Fp 1
+
+AGRADECERIA_A_ALGUIEN_KE_LE_A_OCURRIDO_ALGO_PARECIDO_ME_DIERA_ALGUNA_INFORMACION_O_A_KE_SE_DEBE_LA_AVERIA_Y_SI_ES_MUY_COSTOSA agradeceria_a_alguien_ke_le_a_ocurrido_algo_parecido_me_diera_alguna_informacion_o_a_ke_se_debe_la_averia_y_si_es_muy_costosa NP00000 1
+. . Fp 1
+
+MUCHAS_GRACIAS muchas_gracias NP00000 1
+, , Fc 1
+PEPE_DE_GRANADA pepe_de_granada NP00000 1
+. . Fp 1
+
+SALUDOS saludos NP00000 0.411768
+. . Fp 1
+
+ESPERO_TENER_SUERTE_Y_KE_PUEDA_LEER_ESTO_ALGUIEN_YA_KE_ME_HARIA_UN_GRAN_FAVOR_SOBRE_TOBO_AHORA_KE_ESTAMOS_TODOS_TAN_JUSTITOS_Y_HAY_KE_DARLE espero_tener_suerte_y_ke_pueda_leer_esto_alguien_ya_ke_me_haria_un_gran_favor_sobre_tobo_ahora_ke_estamos_todos_tan_justitos_y_hay_ke_darle NP00000 1
+MIL 1000 Z 0.983871
+VUELTAS_A_EL_EURO_Y_A_LOS_GASTOS_EXTRAS_GRACIAS_DE_NUEVO vueltas_a_el_euro_y_a_los_gastos_extras_gracias_de_nuevo NP00000 1
+. . Fp 1
+

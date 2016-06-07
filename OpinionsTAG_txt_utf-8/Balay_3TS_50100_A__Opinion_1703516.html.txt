@@ -1,0 +1,36 @@
+PARA_MI_ESTA_PEQUEÑA_ES_IDEAL_SI_VIVES_EN_UN_SITIO_REDUCIDO_CON_UNA_CAPACIDAD_DE para_mi_esta_pequeña_es_ideal_si_vives_en_un_sitio_reducido_con_una_capacidad_de NP00000 1
+5 5 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+ES_FORMIDABLE es_formidable NP00000 1
+, , Fc 1
+YA_QUE_AHORRA_ENERGIA_Y_NO_ES_RUIDOSA ya_que_ahorra_energia_y_no_es_ruidosa NP00000 1
+. . Fp 1
+
+IDEAL_PARA_RECIEN_CASADOS_O_SOLTEROS_QUE_GUSTAN_DE_LA_ESTETICA_Y_TECNOLOGIA_DE_PUNTA_EN_SUS_MANOS ideal_para_recien_casados_o_solteros_que_gustan_de_la_estetica_y_tecnologia_de_punta_en_sus_manos NP00000 1
+. . Fp 1
+
+YO_PIENSO_QUE_SI_ESTAS_INICIANDO_TU_INDEPENDECIA_COMO_PERSONA_O_ESTAS_COMENZANDO_TU_PRIMER_HOGAR_ESTA_PEQUEÑA_ES_IDEAL_PARA_TI yo_pienso_que_si_estas_iniciando_tu_independecia_como_persona_o_estas_comenzando_tu_primer_hogar_esta_pequeña_es_ideal_para_ti NP00000 1
+. . Fp 1
+
+DESDE_MI_PUNTO_DE_VISTA_SU_CARGA_FRONTAL_LA_HACE_AUN_MAS_PRACTICA_Y_FACIL_DE_MANEJAR desde_mi_punto_de_vista_su_carga_frontal_la_hace_aun_mas_practica_y_facil_de_manejar NP00000 1
+. . Fp 1
+
+SU_RAPIDEZ_ES_BUENA su_rapidez_es_buena NP00000 1
+, , Fc 1
+Y_SU_FUNCIONAMIENTO_AUTOMATICO_TE_PERMITE_REALIZAR_OTRAS_LABORES_DE_EL_HOGAR_MIENTRAS_ESTA_REALIZA_TODOS_SUS_CICLOS y_su_funcionamiento_automatico_te_permite_realizar_otras_labores_de_el_hogar_mientras_esta_realiza_todos_sus_ciclos NP00000 1
+. . Fp 1
+
+YO_CONSIDERO_QUE_SU_RELACION_COSTO yo_considero_que_su_relacion_costo NP00000 1
+- - Fg 1
+BENFICIO_ESTA_EQUILIBRADO benficio_esta_equilibrado NP00000 1
+. . Fp 1
+
+SE_ENCUENTRA_EN_UN_PROMEDIO_EN_EL_MERCADO se_encuentra_en_un_promedio_en_el_mercado NP00000 1
+. . Fp 1
+
+EN_POCAS_PALABRAS en_pocas_palabras RG 1
+ESTA_PEQUEÑA_ES_UN_GIGANTE_POR_SUS_BENEFICIOS esta_pequeña_es_un_gigante_por_sus_beneficios NP00000 1
+. . Fp 1
+

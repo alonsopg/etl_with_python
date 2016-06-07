@@ -1,0 +1,46 @@
+FAGOR_EVOLUCIONA_EN_ESTA_LAVADORA_HASTA_LOS fagor_evoluciona_en_esta_lavadora_hasta_los NP00000 1
+8 8 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+DE_CAPACIDAD_SUPERANDO_ASI_LOS de_capacidad_superando_asi_los NP00000 1
+7 7 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+DE_OTRAS_MARCAS de_otras_marcas NP00000 1
+. . Fp 1
+
+ADEMAS_LAS ademas_las NP00000 1
+1000 1000 Z 1
+R.P.M._DE_CENTRIFUGADO_HACEN_DE_ELLA_UNA_MAQUINA_PERFECTA r.p.m._de_centrifugado_hacen_de_ella_una_maquina_perfecta NP00000 1
+. . Fp 1
+
+FACILIDAD_DE_USO_PESE_A_SER_UNA_LAVADORA_ELECTRONICA_GRACIAS_A_EL_DISPLAY_DIGITAL_QUE_INDICA_EN_TODO_MOMENTO_EL_PROGRAMA_SELECCIONADO_Y_EL_CICLO_DE_LAVADO facilidad_de_uso_pese_a_ser_una_lavadora_electronica_gracias_a_el_display_digital_que_indica_en_todo_momento_el_programa_seleccionado_y_el_ciclo_de_lavado NP00000 1
+. . Fp 1
+
+ADEMAS_INCORPORA_UN_PROGRAMA_EXCLUSIVO_CAPAZ_DE_LAVAR ademas_incorpora_un_programa_exclusivo_capaz_de_lavar NP00000 1
+8 8 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+DE_ROPA_EN_TAN_SOLO de_ropa_en_tan_solo NP00000 1
+50 50 Z 1
+MINUTOS minutos NP00000 1
+. . Fp 1
+
+CON_LA_POSIBILIDAD_TAMBIEN_DE_ELEGIR_LA_VELOCIDAD_DE_CENTRIFUGADO con_la_posibilidad_tambien_de_elegir_la_velocidad_de_centrifugado NP00000 1
+. . Fp 1
+
+OTRA_VENTAJA_ES_LA_ACCESIBILIDAD_DE_EL_FILTRO_CON_RESPECTO_A_OTRAS_LAVADORAS_DE_LA_MARCA_FAGOR otra_ventaja_es_la_accesibilidad_de_el_filtro_con_respecto_a_otras_lavadoras_de_la_marca_fagor NP00000 1
+. . Fp 1
+
+PESE_A pese_a SPS00 1
+TENER tener NP00000 1
+8 8 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+DE_CAPACIDAD_NO_VARIA_NADA_EL_TAMAÑO_STANDART_DE_UNA_LAVADORA_PUESTO_QUE_EL_FABRICANTE_CONSIGUE_LA_CAPACIDAD_DANDOLE_UNA_INCLINACION_EXTRA_A_EL_BOMBO de_capacidad_no_varia_nada_el_tamaño_standart_de_una_lavadora_puesto_que_el_fabricante_consigue_la_capacidad_dandole_una_inclinacion_extra_a_el_bombo NP00000 1
+. . Fp 1
+

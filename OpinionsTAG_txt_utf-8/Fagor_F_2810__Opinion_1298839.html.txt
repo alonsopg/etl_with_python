@@ -1,0 +1,33 @@
+HAY_VECES_QUE_AUNQUE_UNA_MARCA_SEA_CONOCIDA_NO_DA_CALIDAD hay_veces_que_aunque_una_marca_sea_conocida_no_da_calidad NP00000 1
+. . Fp 1
+
+EN_ESTE_CASO_NO_ES_ASI en_este_caso_no_es_asi NP00000 1
+. . Fp 1
+
+LAS el DA0FP0 0.970857
+DOS 2 Z 0.991679
+LAVADORAS_QUE_HE_TENIDO_HAN_SIDO_DE_MARCA_FAGOR lavadoras_que_he_tenido_han_sido_de_marca_fagor NP00000 1
+. . Fp 1
+
+ES_UNA_DE_LAS_MEJORES_MARCAS_EN_LAVADORAS_Y_SERVICIO_TECNICO es_una_de_las_mejores_marcas_en_lavadoras_y_servicio_tecnico NP00000 1
+. . Fp 1
+
+LA_VIDA_UTIL_DE_SUS_ELECTRODOMESTICOS_ES_MAYOR_QUE_DE_OTRAS_MARCAS_Y_AUNQUE_SEAN_UN_POCO_MAS_CARAS la_vida_util_de_sus_electrodomesticos_es_mayor_que_de_otras_marcas_y_aunque_sean_un_poco_mas_caras NP00000 1
+, , Fc 1
+A_LA_LARGA_SALEN_MAS_RENTABLES_BIEN_POR_QUE_TIENEN_MENOS_AVERIAS_O_BIEN_PORQUE_DURAN_MAS_TIEMPO a_la_larga_salen_mas_rentables_bien_por_que_tienen_menos_averias_o_bien_porque_duran_mas_tiempo NP00000 1
+. . Fp 1
+
+CONSEJO consejo NP00000 0.411768
+: : Fd 1
+USAD_SIEMPRE_RECAMBIOS_ORIGINALES_Y_SERVICIO_TECNICO usad_siempre_recambios_originales_y_servicio_tecnico NP00000 1
+. . Fp 1
+
+HAY_MUCHOS_FARSANTES hay_muchos_farsantes NP00000 1
+. . Fp 1
+
+SON_MEJORES_LAS_DE_TODA_LA_VIDA_QUE_TIENEN_TODOS_LOS_MANDO_MANUALES son_mejores_las_de_toda_la_vida_que_tienen_todos_los_mando_manuales NP00000 1
+. . Fp 1
+
+LAS_MODERNAS_CON_PANELES_ELECTRONICOS_DAN_PROBLEMAS_MAS_A_MENUDO_Y_LAS_AVERIAS_SON_MAS_CARAS_QUE_EN_LAS_MANUALES las_modernas_con_paneles_electronicos_dan_problemas_mas_a_menudo_y_las_averias_son_mas_caras_que_en_las_manuales NP00000 1
+. . Fp 1
+

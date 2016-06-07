@@ -1,0 +1,79 @@
+TENGO_ESTA_LAVADORA tengo_esta_lavadora NP00000 1
+8 8 Z 1
+MESES meses NP00000 1
+. . Fp 1
+
+CUANDO_FUIMOS_A_COMPRAR_LA_VENDEDORA_NOS_LA_RECOMENDO cuando_fuimos_a_comprar_la_vendedora_nos_la_recomendo NP00000 1
+. . Fp 1
+
+BUENO bueno I 0.546326
+, , Fc 1
+LA_VERDAD_QUE_YO_NUNCA_HABIA_TENIDO_LECTRODOMESTICOS_LG la_verdad_que_yo_nunca_habia_tenido_lectrodomesticos_lg NP00000 1
+, , Fc 1
+LOS_CUALES_EN_CALIDAD los_cuales_en_calidad NP00000 1
+, , Fc 1
+PRECIO precio NP00000 1
+, , Fc 1
+DISEÑO_SON_MUY_BUENOS diseño_son_muy_buenos NP00000 1
+. . Fp 1
+
+PUES_CLARO pues_claro NP00000 1
+, , Fc 1
+YO_SIEMPRE_PENSABA_EN_LAS_MARCAS_MAS_PRESTIGIOSAS_EN_LAVADORAS_COMO_BOSCH yo_siempre_pensaba_en_las_marcas_mas_prestigiosas_en_lavadoras_como_bosch NP00000 1
+, , Fc 1
+ELECTROLUX electrolux NP00000 1
+.... .... Fz 1
+QUE_SE_LES_SUPONE_MAS_CALIDAD_Y_DUREZA_Y_TAMBIEN_DE_PRECIO que_se_les_supone_mas_calidad_y_dureza_y_tambien_de_precio NP00000 1
+. . Fp 1
+
+PEROBUENO perobueno NP00000 1
+, , Fc 1
+LA la NP00000 1
+COMPRAMOS,450 COMPRAMOS,450 Z 1
+EUROS euros NP00000 1
+. . Fp 1
+
+BIEN bien RG 0.901659
+, , Fc 1
+PUES_LA_LAVADORA_ES_DE_CLASE_ENERGETICA pues_la_lavadora_es_de_clase_energetica NP00000 1
+A,1000 A,1000 Z 1
+REVOLUCIONES_DE_CENTRIFUGADO revoluciones_de_centrifugado NP00000 1
+. . Fp 1
+
+SU_FUNCIONAMIENTO_ES_SENCILLISIMO su_funcionamiento_es_sencillisimo NP00000 1
+, , Fc 1
+AUNUE_NUNCA_HAYA_SMANEJADO_UNA_LAVADORA_ES_SUPERSENCILLA aunue_nunca_haya_smanejado_una_lavadora_es_supersencilla NP00000 1
+. . Fp 1
+
+LAVA_ESTUPENDAMENTE lava_estupendamente NP00000 1
+, , Fc 1
+NOSOTROS_LE_DAMOS_BASTANTE nosotros_le_damos_bastante NP00000 1
+TRABAJO,2 TRABAJO,2 Z 1
+LAVADORAS_DIARIAS lavadoras_diarias NP00000 1
+, , Fc 1
+Y_ES_ESTUPENDA y_es_estupenda NP00000 1
+. . Fp 1
+
+ADEMAS ademas NP00000 0.402329
+, , Fc 1
+ES_MUY_SILENCIOSA es_muy_silenciosa NP00000 1
+. . Fp 1
+
+A a SPS00 0.996023
+1000 1000 Z 1
+VUELTAS_APENAS_SE_OYE_EL_ZUMBIDO_DE_EL_MOTOR vueltas_apenas_se_oye_el_zumbido_de_el_motor NP00000 1
+. . Fp 1
+
+UNA_DE_LAS_COSAS_QUE_HAY_QUE_TENER_EN_CUENTA_CUANDO_MONTEIS_LA_LAVADORA una_de_las_cosas_que_hay_que_tener_en_cuenta_cuando_monteis_la_lavadora NP00000 1
+, , Fc 1
+ES_REGULARLE_LA_ALTURA_DE_LAS_PATAS_PORQUE_SI_NO_ES_ASI es_regularle_la_altura_de_las_patas_porque_si_no_es_asi NP00000 1
+, , Fc 1
+CUANDO_CENTRIFUGA_VA_A_EMPEZAR_A_VIBRAR_Y_SE_MOVERA_DE_EL_SITIO cuando_centrifuga_va_a_empezar_a_vibrar_y_se_movera_de_el_sitio NP00000 1
+. . Fp 1
+
+PERO_VAMOS pero_vamos NP00000 1
+, , Fc 1
+UNA uno DI0FS0 0.951575
+LAVADORA_EXCELENTE lavadora_excelente NP00000 1
+. . Fp 1
+

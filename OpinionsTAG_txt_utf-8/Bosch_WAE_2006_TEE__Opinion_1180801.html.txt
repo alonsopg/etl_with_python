@@ -1,0 +1,27 @@
+ES_UN_APARATO_DE_LO_MÁS_SOFISTICADO es_un_aparato_de_lo_más_sofisticado NP00000 1
+, , Fc 1
+PUEDE_SER_UN_VERDADERO_ESPECTACULO puede_ser_un_verdadero_espectaculo NP00000 1
+, , Fc 1
+PARA_LA_FAMILIA para_la_familia NP00000 1
+, , Fc 1
+YA_QUE_SATISFACE_LAS_NECESIDADES_DE_TODOS_Y_CADA ya_que_satisface_las_necesidades_de_todos_y_cada NP00000 1
+UNO uno PI0MS000 0.969022
+DE_LOS_MIEMBROS_DESDE_LA_MADRE_A_EL_NIÑO_PEQUEÑO de_los_miembros_desde_la_madre_a_el_niño_pequeño NP00000 1
+, , Fc 1
+O_A_EL_ABUELO_QUE_QUEDAN_TODOS_PERFECTAMENTE_SATISFECHOS_DE_SUS_PRESTACIÓNES o_a_el_abuelo_que_quedan_todos_perfectamente_satisfechos_de_sus_prestaciónes NP00000 1
+, , Fc 1
+SE_PUEDE_ADAPTAR_A_TODOS_LOS_BOLSILLOS_Y_A_CADA_NECESIDAD_DE_EL_HOGAR se_puede_adaptar_a_todos_los_bolsillos_y_a_cada_necesidad_de_el_hogar NP00000 1
+, , Fc 1
+E_INCLUSO e_incluso NP00000 1
+, , Fc 1
+PARA_LAS_PERSONAS_SOLAS_Y_SIN_FAMILIA_QUE_LES_SOLUCIONA_LA_VIDA_DE_FORMA_MAS_SATISFACTORIA para_las_personas_solas_y_sin_familia_que_les_soluciona_la_vida_de_forma_mas_satisfactoria NP00000 1
+. . Fp 1
+
+CUANDO_SE_PONE_EN_FUNCIONAMIENTO cuando_se_pone_en_funcionamiento NP00000 1
+, , Fc 1
+NADIE_SE_DA_CUENTA_DE_SU_EXISTENCIA nadie_se_da_cuenta_de_su_existencia NP00000 1
+, , Fc 1
+LO_QUE_SE_UN_GRAN_AVANCE_DENTRO_DE_EL_HOGAR lo_que_se_un_gran_avance_dentro_de_el_hogar NP00000 1
+, , Fc 1
+NO_EN_OTROS_CASOS_QUE_PARECE_QUE_SE_HA_PUESTO_EN_MARCHA_EL_TRACTOR_DE_EL_ABUELO no_en_otros_casos_que_parece_que_se_ha_puesto_en_marcha_el_tractor_de_el_abuelo NP00000 1
+

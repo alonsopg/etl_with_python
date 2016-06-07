@@ -1,0 +1,46 @@
+NECESITO_SABER_COMO_SE_PROGRAMA_LA_LAVADORA_SIN_PRELAVADO necesito_saber_como_se_programa_la_lavadora_sin_prelavado NP00000 1
+. . Fp 1
+
+NO_LO_CONSIGO no_lo_consigo NP00000 1
+. . Fp 1
+
+DURA_COMO dura_como NP00000 1
+DOS_HORAS_Y_MEDIA [??:??/??/??:2.30:??] W 1
+EL_LAVADO_Y_LO_HACE_CON_AGUA_CALIENTE_AUNKE_LE_KITE_LA_OPCION_DE_LA_TEMPERATURA el_lavado_y_lo_hace_con_agua_caliente_aunke_le_kite_la_opcion_de_la_temperatura NP00000 1
+. . Fp 1
+
+NO_SE_KE_HAGO_MAL no_se_ke_hago_mal NP00000 1
+. . Fp 1
+
+IGUAL_ES_MUY_FACIL_PERO igual_es_muy_facil_pero NP00000 1
+, , Fc 1
+YA_SE_SABE_LOS_PRINCIPIOS_SON_DIFICILES_PARA_TODO ya_se_sabe_los_principios_son_dificiles_para_todo NP00000 1
+. . Fp 1
+
+LES_AGRADECERIA_KE_SI_ALGUEN_ME_PUEDE_AYUDAR_LO_HAGA les_agradeceria_ke_si_alguen_me_puede_ayudar_lo_haga NP00000 1
+, , Fc 1
+ME_LEI_EL_LIBRO me_lei_el_libro NP00000 1
+20 20 Z 1
+VECES veces NP00000 1
+. . Fp 1
+
+EN_MI_OPINION_EL_PRECIO_ESTA_MUY_BIEN_DESPUES_DE_HABER_VISTO_MUCHAS_LAVADORAS en_mi_opinion_el_precio_esta_muy_bien_despues_de_haber_visto_muchas_lavadoras NP00000 1
+. . Fp 1
+
+AHORA_LO_KE_HACE_FALTA_ES_KE_ME_SALGA_RENTABLE_Y_NO_TENGA_KE_PONER_EL_PROGRAMA_DE_PRELAVADO_NI_EL_AGUA_CALIENTE_PARA_LAVAR_LA_ROPA ahora_lo_ke_hace_falta_es_ke_me_salga_rentable_y_no_tenga_ke_poner_el_programa_de_prelavado_ni_el_agua_caliente_para_lavar_la_ropa NP00000 1
+. . Fp 1
+
+YA_NO_SE_KE_PONER_MAS_NO_ME_DEJA_ENVIAR_HASTA_LAS ya_no_se_ke_poner_mas_no_me_deja_enviar_hasta_las NP00000 1
+120 120 Z 1
+PALABRAS palabras NP00000 1
+. . Fp 1
+
+GRACIAS_POR_ADELANTADO gracias_por_adelantado NP00000 1
+, , Fc 1
+ESPERO_KE_ALGUIEN_ME_AYUDE_Y_MUCHAS espero_ke_alguien_me_ayude_y_muchas NP00000 1
+, , Fc 1
+MUCHAS_GRACIAS muchas_gracias NP00000 1
+, , Fc 1
+UN uno DI0MS0 0.987295
+SALUDO saludo NP00000 1
+

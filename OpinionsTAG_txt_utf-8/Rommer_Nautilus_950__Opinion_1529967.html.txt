@@ -1,0 +1,35 @@
+LA_LAVADORA_ROMMER_MODELO_NAUTILUS la_lavadora_rommer_modelo_nautilus NP00000 1
+950 950 Z 1
+ES_MUY_MANEJABLE es_muy_manejable NP00000 1
+, , Fc 1
+ECONOMICA_DE_CLASE_ENERGETICA economica_de_clase_energetica NP00000 1
+( ( Fpa 1
+A a NCFS000 0.00397693
+) ) Fpt 1
+Y_CUESTION_CALIDAD_PRECIO_PERFECTA y_cuestion_calidad_precio_perfecta NP00000 1
+, , Fc 1
+GRAN_CAPACIDAD_EN_EL_TAMBOR gran_capacidad_en_el_tambor NP00000 1
+. . Fp 1
+
+Y y CC 0.999962
+REFERENTE_A_EL_SERVICIO_TECNICO referente_a_el_servicio_tecnico NP00000 1
+, , Fc 1
+NO_SE_PERO_EL_SERVICIO_TECNICO_OFICIAL_EN_MI_PROVINCIA_SOMOS_NOSOTROS_MISMOS no_se_pero_el_servicio_tecnico_oficial_en_mi_provincia_somos_nosotros_mismos NP00000 1
+, , Fc 1
+Y_YO_SOY_EL_GERENTE_DE_LA_EMPRESA_Y_LE_ASEGURO_A_NUESTRO_AMIGO_QUE_HA_COMPARTIDO_LA_EXPERIENCIA_CON_NOSOTROS_QUE_NO_DUDO_DE_SUS_PALABRAS y_yo_soy_el_gerente_de_la_empresa_y_le_aseguro_a_nuestro_amigo_que_ha_compartido_la_experiencia_con_nosotros_que_no_dudo_de_sus_palabras NP00000 1
+, , Fc 1
+PERO_QUE_EN_TODAS_LAS_EMPRESAS_HAY_UN_RESPONSABLE_Y_DEBERIA_ACUDIR_A_EL_RESPONSABLE pero_que_en_todas_las_empresas_hay_un_responsable_y_deberia_acudir_a_el_responsable NP00000 1
+, , Fc 1
+SEGURO_QUE_LE_SOLUCIONA_EL_PROBLEMA seguro_que_le_soluciona_el_problema NP00000 1
+, , Fc 1
+POR_QUE_EL_TECNICO_QUE_LE_VISITO_ES_UN_EMPLEADO por_que_el_tecnico_que_le_visito_es_un_empleado NP00000 1
+, , Fc 1
+Y_LOS_HAY_BUENOS_Y_NO_TAN_BUENOS y_los_hay_buenos_y_no_tan_buenos NP00000 1
+. . Fp 1
+
+PERO_EL_RESPOSABLE_SI_ADEMAS_ES_EL_DUEÑO_LKE_INTERESA_QUE_EL_CLIENTE_TENGA_UNA_BUENA_IMAGEN_Y_QUEDE_SATISFECHO_EN_TODO_MOMENTO pero_el_resposable_si_ademas_es_el_dueño_lke_interesa_que_el_cliente_tenga_una_buena_imagen_y_quede_satisfecho_en_todo_momento NP00000 1
+. . Fp 1
+
+UN_SALUDO un_saludo NP00000 1
+. . Fp 1
+

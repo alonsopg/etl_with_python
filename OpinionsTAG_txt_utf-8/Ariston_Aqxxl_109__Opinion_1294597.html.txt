@@ -1,0 +1,37 @@
+SE_TRATA_DE_UNA_LAVADORA_PARA_FAMILIAS_NUMEROSAS se_trata_de_una_lavadora_para_familias_numerosas NP00000 1
+, , Fc 1
+PROGRAMAS_ESPECIALES_DE_LIMPIEZA programas_especiales_de_limpieza NP00000 1
+, , Fc 1
+INTERESANTE_LA_DE_ROPA_MUY_SUCIA interesante_la_de_ropa_muy_sucia NP00000 1
+. . Fp 1
+
+DISPONE_DE_TEMPORIZADOR_DE_ENCENDIDO_PERO_CON_SOLO dispone_de_temporizador_de_encendido_pero_con_solo NP00000 1
+TRES 3 Z 1
+OPCIONES opciones NP00000 1
+3 3 Z 1
+, , Fc 1
+6 6 Z 1
+Y y NP00000 1
+9 9 Z 1
+HORAS horas NP00000 1
+. . Fp 1
+
+ES_SILENCIOSA_Y_ECOLÓGICA es_silenciosa_y_ecológica NP00000 1
+. . Fp 1
+
+DISEÑO_ATRACTIVO diseño_atractivo NP00000 1
+. . Fp 1
+
+LAS_MEDIDAS_SON_LAS_DE_UNA_LAVADORA_ESTANDARD las_medidas_son_las_de_una_lavadora_estandard NP00000 1
+, , Fc 1
+QUIZÁS_CON_UN_POCO_MÁS_DE_FONDO quizás_con_un_poco_más_de_fondo NP00000 1
+. . Fp 1
+
+LA_CUBETA_DOSIFICADORA_DE_DETERGENTES_QUEDA_DENTRO_DE_LA_PUERTA_QUE_CIERRA_EL_BOMBO_CON_LO_QUE_UNA_VEZ_SE_CIERRA la_cubeta_dosificadora_de_detergentes_queda_dentro_de_la_puerta_que_cierra_el_bombo_con_lo_que_una_vez_se_cierra NP00000 1
+, , Fc 1
+DURANTE_EL_LAVADO_NO_SE_PUEDE_VER_QUE_HAY_DENTRO durante_el_lavado_no_se_puede_ver_que_hay_dentro NP00000 1
+. . Fp 1
+
+POR_ÚLTIMO_INDICAR_QUE_DISPONE_DE_UN_BOTÓN_DE_SEGURIDAD_PARA_BLOQUEAR_EL_PANEL_DE_MANDOS_Y_QUE_LOS_NIÑOS_NO_PUEDAN_PARARLA_O_MODIFICARLA_DURANTE_EL_PROGRAMA_DE_LAVADO por_último_indicar_que_dispone_de_un_botón_de_seguridad_para_bloquear_el_panel_de_mandos_y_que_los_niños_no_puedan_pararla_o_modificarla_durante_el_programa_de_lavado NP00000 1
+. . Fp 1
+

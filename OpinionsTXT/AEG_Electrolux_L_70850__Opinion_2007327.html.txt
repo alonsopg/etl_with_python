@@ -1,0 +1,67 @@
+
+Hola amigos/as de Ciao, 
+esta vez os voy a presentar mi Lavadora
+AEG Electrolux Silent System Plus L70850M que la compre el 29/11/2008 
+hace ya unos cuantos años, y desde entonces la tengo funcionando.
+He de explicar que estoy verdaderamente bastante contento con ella, se caracteriza por tener un display de tamaño medio en la parte superior, retro iluminado de color azul brillante por lo que su manejo la hace más sencillo en la oscuridad.
+
+
+Y por supuesto no se me va a olvidar de nombrar,su exclusiva luz led de color blanco de alta luminosidad ubicada en la parte superior de la puerta del tambor por dentro, que nos iluminara el tambor cada vez que la puerta del tambor sea abierta siempre y cuando esta esté encendida.
+No es una simple lavadora como las de toda la vida, sino que ya las lavadoras han dado un pequeño gran salto, introduciéndose más en la programación de software,
+mediante pequeños circuitos con integrados PLDS circuitos lógicos microprogramables mediante lenguajes de programacion como se utiliza en este caso el lenguaje C. 
+
+
+Proporcionándonos diferente oportunidades de lavado y otras opciones.puesto que desde fabrica han sido programados estos chips PLDs para que en este caso nuestra lavadora nos ofrezca diferentes modos de opciones de lavado.
+La ropa sale bastante seca con tan solo 800rpm (yo particularmente prefiero lavar a 800 o 600rpm puesto que consume menos y daña menos la lavadora) con una carga llena de ropa, para ahorrar agua IMPORTANTE.
+
+
+Empresa:
+La empresa culpable de la creación de esta maravilla de lavadora es AEG “Electrolux”
+Como bien sabéis es una empresa de electrodomésticos alemana cuya significado de las siglas AEG dictan: 
+Allgemeine Elektricitäts-Gesellschaft (AEG),  en español Asociación General de Electricidad. 
+Fundada en 1883 en Berlín por Emil Rathenau pudiendo adquirír
+en ese año la licencia de la patentes de Thomas Edison en Alemania. 
+
+
+Es en 1887 cuando la empresa cambia de nombre para pasar a
+Allgemeine Elektrizitäts-Gesellschaft.
+Durante los primeros años la empresa se dedicó a fabricar únicamente calentadores de agua eléctricos,  planchas eléctricas, teteras eléctricas y pocos aparatos más.
+
+A partir de 1907, comenzó a trabajar como asesor el diseñador Peter Behrens. Convirtiéndose en la primera empresa de la historia en tener una identidad corporativa tal y como la entendemos hoy en día.
+
+
+Behrens se encargó de diseñar productos industriales como lámparas, ventiladores y demás productos eléctricos; construyó edificios para AEG, como fábricas o las viviendas de los trabajadores; COMO HOY EN DÍA  (JAAAAA)
+así como elementos de la comunicación de la empresa, tales como el logo, papelería, carteles, anuncios… ayudando así a consolidar una nueva idea: la de la identidad corporativa.  Hicieron dar a la empresa un nuevo aspecto más moderno.
+*En 1958 se produce el nacimiento de la primera lavadora totalmente
+automática, denominada  LAVAMAT. 
+
+
+*Y en 1976 AEG presenta el primer horno totalmente electrónico del mercado.
+Pero finalmente la empresa se desilusionó en el año 1996, cabe destacar que la marca AEG se sigue siendo utilizada por Electrolux (suecos) responsable de adquirir los derechos de la marca AEG.
+De ahí la fusión del nombre de AEG Electrolux, dejándose de  ver.  Se podría decir un poco más de la empresa pero hasta aquí la lección de hoy.
+
+
+Diseño:
+De color plateado de acero inoxidable con anti huellas diría yo, puesto que apenas se quedan las marcas de los dedos marcadas.
+No es muy grande así como su peso respecto con las antiguas  lavadoras es algo menor.
+
+
+Aunque también está disponible en color blanco a un precio  de unos 100€  más barata cosa que a mi particularmente, me incentivo más la compra del color plateado por su exclusiva elegancia y modernidad al ojo humano yendo más allá de una  simple lavadora, compaginando a la perfección con su toque de luz led blanco en el tambor cada apertura de su puerta.
+Destacando en la  parte de su diseño algo que la hace más bella, puesto que resalta muchísimo en toda ella es la puerta del tambor que es de un color plateado brillante diferente del resto de la estructura.
+
+
+Características:
+    Marca  : AEG-Electrolux
+  Línea Eficiencia Energética   (EU): A
+  Tipo de Lavado  : Automático
+  Construcción  : Independiente
+  Integrado  : Si
+  Panelable  : Si
+  Tipo de Carga  : Frontal
+  Revoluciones por Minuto  : 1000 Max  y 400 Min.
+  Material de la Puerta  : Color, Acero Inoxidable
+  Función Secado  : No
+  Capacidad
+	
+		
+			Fotos de AEG-Electrolux L-70850

@@ -1,0 +1,58 @@
+QUERIDAS_AMIGAS queridas_amigas NP00000 1
+/ / Fh 1
+OS os NP00000 1
+. . Fp 1
+
+LAS_LAVARROPAS_DE_CARGA_FRONTAL_SON_IDEALES_PARA_LAS_PERSONAS_COMO_YO_CON_POCO_ESPACIO_EN_LA_CASA las_lavarropas_de_carga_frontal_son_ideales_para_las_personas_como_yo_con_poco_espacio_en_la_casa NP00000 1
+. . Fp 1
+. . Fp 1
+
+UNA_EXELENTE_ELECCION una_exelente_eleccion NP00000 1
+, , Fc 1
+FUE_LA_MIA_A_EL_ELEGIR_ESTA_MARCA_TAN_RENOMBRADA fue_la_mia_a_el_elegir_esta_marca_tan_renombrada NP00000 1
+" " Fe 1
+; ; Fx 1
+ELECTROLUX electrolux NP00000 1
+" " Fe 1
+; ; Fx 1
+YA_QUE_ME_LO_DIERON_CON ya_que_me_lo_dieron_con NP00000 1
+2 2 Z 1
+AÑOS_DE_GARANTIA_Y_TODA_LA_SATISFACCION años_de_garantia_y_toda_la_satisfaccion NP00000 1
+. . Fp 1
+. . Fp 1
+
+HACE_COMO hace_como NP00000 1
+3 3 Z 1
+AÑOS_QUE_LA_USO_Y_JAMAS_HE_TENIDO_PROBLEMAS_CON_ELLA años_que_la_uso_y_jamas_he_tenido_problemas_con_ella NP00000 1
+... ... Fs 1
+ES_SUPER_PRACTICA es_super_practica NP00000 1
+, , Fc 1
+Y_DEJA_MIS_ROPAS_RE_LIMPIAS_Y_SEMI_SECAS y_deja_mis_ropas_re_limpias_y_semi_secas NP00000 1
+. . Fp 1
+. . Fp 1
+
+YO_LES_RECOMIENDO yo_les_recomiendo NP00000 1
+! ! Fat 1
+
+TIENE_UN_PEQUEÑO_INCONVENIENTE tiene_un_pequeño_inconveniente NP00000 1
+: : Fd 1
+QUE_NO_ES_CONTRA_OLVIDO_YA_QUE_SI_OLVIDAS_ALGUNA_PRENDA que_no_es_contra_olvido_ya_que_si_olvidas_alguna_prenda NP00000 1
+, , Fc 1
+NO_PUEDES_PARAR_EL_PROGRAMA_PARA_COLOCAR_LA_QUE_SE_TE_OLVIDO no_puedes_parar_el_programa_para_colocar_la_que_se_te_olvido NP00000 1
+. . Fp 1
+. . Fp 1
+
+PERO_BUENO_YA_POCO_A_POCO_FUI_ACOSTUMBRANDOME_A_NO_DEJAR_LAS_ROPAS_TIRADAS_POR_AHI pero_bueno_ya_poco_a_poco_fui_acostumbrandome_a_no_dejar_las_ropas_tiradas_por_ahi NP00000 1
+. . Fp 1
+. . Fp 1
+
+SI_BIEN_ESTA_MARCA_ES_UN_POCO_MAS_CARA_QUE_OTRAS si_bien_esta_marca_es_un_poco_mas_cara_que_otras NP00000 1
+, , Fc 1
+YO_CREO_QUE_VALE_LA_PENA yo_creo_que_vale_la_pena NP00000 1
+, , Fc 1
+YA_QUE_NO_ES_COSA_QUE_COMPRAMOS_TODOS_LOS_DIAS ya_que_no_es_cosa_que_compramos_todos_los_dias NP00000 1
+. . Fp 1
+. . Fp 1
+
+ESPERO_HABER_AYUDADO_EN_TU_DESICION espero_haber_ayudado_en_tu_desicion NP00000 1
+

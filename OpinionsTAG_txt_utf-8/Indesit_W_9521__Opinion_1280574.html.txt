@@ -1,0 +1,47 @@
+TENEMOS_ESTA_LAVADORA_DESDE_HACE_UNOS tenemos_esta_lavadora_desde_hace_unos NP00000 1
+TRES 3 Z 1
+AÑOS_Y_HEMOS_TENIDO_VARIOS_PROBLEMAS_CON_ELLA años_y_hemos_tenido_varios_problemas_con_ella NP00000 1
+. . Fp 1
+
+LA_ULTIMA la_ultima NP00000 1
+- - Fg 1
+HA_SIDO ha_sido NP00000 1
+2 2 Z 1
+DIAS dias NP00000 1
+, , Fc 1
+NO_SE_QUE_PASÓ no_se_que_pasó NP00000 1
+, , Fc 1
+EMPEZO_A_HACER_UN_RUIDO_MUY_FUERTE_Y_MUY_EXSTRAÑO_Y_A_EL_FINAL_QUE_NO_FUNCCIONA_EL_TAMBOR empezo_a_hacer_un_ruido_muy_fuerte_y_muy_exstraño_y_a_el_final_que_no_funcciona_el_tambor NP00000 1
+. . Fp 1
+
+HOY_HA_LLEGADO_EL_TECNICO hoy_ha_llegado_el_tecnico NP00000 1
+, , Fc 1
+HA_MIRADO_Y_NADA_MAS_NI_NADA_MENOS ha_mirado_y_nada_mas_ni_nada_menos NP00000 1
+- - Fg 1
+203 203 Z 1
+  Fz 1
+QUE_ME_IVA_A_COSTAR_LA_REPARACIÓN que_me_iva_a_costar_la_reparación NP00000 1
+! ! Fat 1
+? ? Fit 1
+
+ASI_PAGUE_LOS asi_pague_los NP00000 1
+30 30 Z 1
+  Fz 1
+DE_VISITA_Y_DECIDIMOS_A_COMPRAR_OTRA_LAVADORA de_visita_y_decidimos_a_comprar_otra_lavadora NP00000 1
+, , Fc 1
+NUEVA nueva NP00000 1
+. . Fp 1
+
+ASI_QUE asi_que NP00000 1
+... ... Fs 1
+POR_LO_CUAL_ESTOY_MUY_DESCONTENTA_CON_ESTA_LAVADORA_Y_NO_LO_RECOMIENDO_A_NADI por_lo_cual_estoy_muy_descontenta_con_esta_lavadora_y_no_lo_recomiendo_a_nadi NP00000 1
+.... .... Fz 1
+NO_DICEN_QUE_VIDA_UTIL_DE_ELECTRDOMESTICOS_SUPERA_LOS no_dicen_que_vida_util_de_electrdomesticos_supera_los NP00000 1
+10 10 Z 1
+AÑOS años NP00000 1
+? ? Fit 1
+? ? Fit 1
+? ? Fit 1
+? ? Fit 1
+? ? Fit 1
+

@@ -1,0 +1,18 @@
+
+Hace unos 3 años que la tenemos y todo iba bien hasta anoche, cuando pensaba que ya había terminado el lavado y me disponía a tender la ropa. Ésta estaba mojada, oliendo a detergente y el suavizante no lo había tocado. 
+Lo primero que pensé es que mi mujer se había equivocado al girar la rueda y había puesto otro programa. Pero no, estaba en el programa de siempre. Puse la rueda a 0 para anular el programa que tuviera y volví a ponerla en algodón y agua fría, Pulso el botón de inicio y a los pocos segundos la luz de fin parpadea 4 veces.
+
+
+El libro de instrucciones dice que eso es que la puerta está abierta, pero yo, que no me perdí ni un capítulo de Barrio Sésamo, sabía que la puerta estaba cerrada. Pero claro, no hay un parpadeo que te diga que el sistema de parpadeo está mal. Es muy tarde y mañana será otro día. La dejo desenchufada por ver si se resetea.
+Puede que lo hiciera o puede que no, pero seguía sin funcionar. Después de comprobar que los filtros de entrada y salida de agua no estaban obstruidos, acudo a mi consejero de guardia (San Google) y al decirle ";avería zanussi zwg 3125"; encontré la solución: comprar una lavadora nueva. 
+
+
+Se trata, al parecer, de una avería muy común: un fallo en algún momento de la fabricación provoca que se queme la parte del circuito integrado que controla que la puerta esté cerrada y no se abra durante el lavado. He llegado hasta el y efectivamente tiene síntomas de tueste. En este caso ocurre que la lavadora cree que la puerta está abierta y no arranca.  Un claro ejemplo de cómo una mejora termina siendo una ";peora";.
+Bueno pues cambio esos componentes y listo, ¿no?. No. Cambiarlos a mano es prácticamente imposible. Según algunos expertos se requieren conocimientos y herramientas especiales.
+
+
+Bueno, pues compro el circuito entero y listo, ¿no? Listo no, listillo, que el repuesto cuesta casi tanto como la lavadora y sabiendo que me puede volver a cascar dentro de otros 3 años. O que sufra alguna de las múltiples averías que he podido relacionar con el modelo, en un rato de búsqueda por la red. 
+Visto la respuesta estándar que tiene la marca ante las quejas recibidas (que viene a decir algo tal que así: ";como nuestra calidad es muy buena el problema está en el uso que se le da al producto";. ¡Claro, a quién se le ocurre poner una lavadora a lavar ropa!) ni me molesto en ponerme en contacto con ellos. Llamaré a mi técnico de confianza y si me confirma el diagnóstico, me pondré a buscar otra marca ajena a Zanussi-Electrolux.
+
+
+Una lástima que un -a priori- buen producto se convierta en un feo pisapapeles por un componente defectuoso.

@@ -1,0 +1,49 @@
+YO_LLEVO_TENIENDO_LAVADORA_NEW_POL_TODA_LA_VIDA yo_llevo_teniendo_lavadora_new_pol_toda_la_vida NP00000 1
+, , Fc 1
+MI_MADRE_TAMBIEN_TENIA_NEW_POL_Y_YO_AHORA_ME_TERMINO_DE_COMPRAR_LA_SEGUNDA_Y_NO_SOLO_POR_EL_PRECIO_ECONÓMICO_Y_LA_CALIDAD mi_madre_tambien_tenia_new_pol_y_yo_ahora_me_termino_de_comprar_la_segunda_y_no_solo_por_el_precio_económico_y_la_calidad NP00000 1
+, , Fc 1
+SI_NO si_no NP00000 1
+, , Fc 1
+POR_EL_SERVICIO por_el_servicio NP00000 1
+, , Fc 1
+QUE_LA_VERDAD_ESTÁ_MUY_BIEN que_la_verdad_está_muy_bien NP00000 1
+. . Fp 1
+. . Fp 1
+
+LA_ÚLTIMA_LA_HE_TENIDO la_última_la_he_tenido NP00000 1
+13 13 Z 1
+AÑOS_Y_NO_ME_DIO_NINGÚN_PROBLEMA años_y_no_me_dio_ningún_problema NP00000 1
+, , Fc 1
+LE_CAMBIÉ_LA_CORREA_PORQUE_ESTABA_DESGASTADA_PERO_VAMOS le_cambié_la_correa_porque_estaba_desgastada_pero_vamos NP00000 1
+, , Fc 1
+QUE_CREEO_QUE_ES_DE_LO_MÁS_NORMAL que_creeo_que_es_de_lo_más_normal NP00000 1
+, , Fc 1
+NO no NP00000 1
+? ? Fit 1
+
+ASÍ_QUE_ESTOY_ENCANTADA así_que_estoy_encantada NP00000 1
+, , Fc 1
+POR_QUE_LA_VERDAD_ES_QUE_SON_MUY_BARATAS_Y_DAN_MUY_BUENOS_RESULTADOS_ADEMÁS_QUE_SON_MUY_FACILES_DE_MANEJAR por_que_la_verdad_es_que_son_muy_baratas_y_dan_muy_buenos_resultados_además_que_son_muy_faciles_de_manejar NP00000 1
+. . Fp 1
+
+EN_FIN en_fin NP00000 1
+, , Fc 1
+YO_HABLO_DESDE_MI_EXPERIENCIA_QUE_HA_SIDO_REALMENTE_BUENA yo_hablo_desde_mi_experiencia_que_ha_sido_realmente_buena NP00000 1
+, , Fc 1
+CON_ESTA_MARCA con_esta_marca NP00000 1
+. . Fp 1
+
+Y y CC 0.999962
+SIEMPRE siempre NP00000 1
+, , Fc 1
+SIEMPRE siempre NP00000 1
+, , Fc 1
+SIEMPRE_NEW_POL siempre_new_pol NP00000 1
+! ! Fat 1
+! ! Fat 1
+
+SALUDOS saludos NP00000 0.411768
+, , Fc 1
+UNA uno DI0FS0 0.951575
+ALICANTINA_SATISFECHA alicantina_satisfecha NP00000 1
+

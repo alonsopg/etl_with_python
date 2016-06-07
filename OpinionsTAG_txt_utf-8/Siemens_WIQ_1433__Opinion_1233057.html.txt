@@ -1,0 +1,39 @@
+YO_COMPRE_A_FINALES_DE yo_compre_a_finales_de NP00000 1
+2005 2005 Z 1
+LA_LAVADORA_HOY_X_HOY_ES_LA_MEJOR_LAVADORA_EN_GASTO_ENERGETICO la_lavadora_hoy_x_hoy_es_la_mejor_lavadora_en_gasto_energetico NP00000 1
+, , Fc 1
+CONSUMO_DE_DETERG consumo_de_deterg NP00000 1
+. . Fp 1
+
+LAVADO_A_MEDIDA lavado_a_medida NP00000 1
+, , Fc 1
+PUDIENDO_TU_DECIDIR_LAS_REVOL pudiendo_tu_decidir_las_revol NP00000 1
+. . Fp 1
+
+EL_TIEMPO_Q_ACABE el_tiempo_q_acabe NP00000 1
+. . Fp 1
+
+LA_RECOMIENDO la_recomiendo NP00000 1
+100X1000 100X1000 Z 1
+. . Fp 1
+
+EL_PROG_DE_LAVADO_DE_LANA_ES_EXCEPCINAL_NI_EN_LA_TINTORERIA_TE_DEJAN_LOS_JERSEIS_ASI el_prog_de_lavado_de_lana_es_excepcinal_ni_en_la_tintoreria_te_dejan_los_jerseis_asi NP00000 1
+. . Fp 1
+
+ES_MUY_SILENCIOSA es_muy_silenciosa NP00000 1
+. . Fp 1
+
+TIENE_BLOQUEO_PARA_LOS_NIÑOS_Y_EN_TODO_MOMENTO_TE_INFORMA_EN_Q_SITUACION_ESTA_EL_LAVADO tiene_bloqueo_para_los_niños_y_en_todo_momento_te_informa_en_q_situacion_esta_el_lavado NP00000 1
+. . Fp 1
+
+LA_HORA_EN_Q_FINALIZARA la_hora_en_q_finalizara NP00000 1
+, , Fc 1
+ENTRE_OTRAS_OPCIONES_PUEDES_SEÑALAR_ACLARADO_EXTRA entre_otras_opciones_puedes_señalar_aclarado_extra NP00000 1
+, , Fc 1
+LAVADO_INTENSIVO lavado_intensivo NP00000 1
+, , Fc 1
+SIN_ARRUGAS sin_arrugas NP00000 1
+. . Fp 1
+
+TAMBIEN_SE_PUEDE_REGULAR_EL_VOLUMEN_DE_LA_SEÑAL_DE_AVISO_CUANDO_ACABA tambien_se_puede_regular_el_volumen_de_la_señal_de_aviso_cuando_acaba NP00000 1
+

@@ -1,0 +1,43 @@
+HOLA_SOY_TECNICO_DE_ELECTRODOMESTICOS_HACE hola_soy_tecnico_de_electrodomesticos_hace NP00000 1
+13 13 Z 1
+AÑOS_Y_ES_SORPRENDENTE_VER_COMO_LA_TECNOLOGIA_ALEMANA_PUEDE_LLEGAR_A_NUESTROS_HOGARES años_y_es_sorprendente_ver_como_la_tecnologia_alemana_puede_llegar_a_nuestros_hogares NP00000 1
+. . Fp 1
+
+LA_BOSCH_WAE la_bosch_wae NP00000 1
+24472 24472 Z 1
+EP_ES_LA_MUESTRA ep_es_la_muestra NP00000 1
+, , Fc 1
+ROBUSTA robusta NP00000 1
+, , Fc 1
+FABRICADA_CON_LA_MEJOR_TECNOLOGIA fabricada_con_la_mejor_tecnologia NP00000 1
+, , Fc 1
+PRACTICA_Y_EQUILIBRADA_POR_SU_FUNCIONALIDAD_Y_LO_MAS_IMPORTANTE_DURADERA practica_y_equilibrada_por_su_funcionalidad_y_lo_mas_importante_duradera NP00000 1
+. . Fp 1
+
+DESDE_SIEMPRE_LAS_LAVADORAS_ERAN_DURADERAS desde_siempre_las_lavadoras_eran_duraderas NP00000 1
+, , Fc 1
+HACE_UNOS_AÑOS_CON_LA_APERTURA_DE_LOS_MERCADOS_LAS_MARCAS_CHINAS_Y_MARCAS_BLANCAS_INUNDARON_EL_MERCADO_DANDO_MALA_FAMA_Y_DESPRESTIGIO_A_TODOS_LOS_ELECTRODOMESTICOS hace_unos_años_con_la_apertura_de_los_mercados_las_marcas_chinas_y_marcas_blancas_inundaron_el_mercado_dando_mala_fama_y_desprestigio_a_todos_los_electrodomesticos NP00000 1
+. . Fp 1
+
+ESO_SE_ACABO_LA_BOSCH_WAE eso_se_acabo_la_bosch_wae NP00000 1
+24472 24472 Z 1
+EP_ES_TU_LAVADORA ep_es_tu_lavadora NP00000 1
+, , Fc 1
+DE_AHORRO_ENERGETICO de_ahorro_energetico NP00000 1
+, , Fc 1
+BAJO_CONSUMO_ELECTRICO_Y_DE_AGUA_Y_LO_MAS_IMPORTANTE_TRATA_TU_ROPA_DELICADAMENTE bajo_consumo_electrico_y_de_agua_y_lo_mas_importante_trata_tu_ropa_delicadamente NP00000 1
+, , Fc 1
+SU_SISTEMA_NUEVO_DE_TAMBOR_NO_DAÑA_LA_ROPA su_sistema_nuevo_de_tambor_no_daña_la_ropa NP00000 1
+, , Fc 1
+RENTABILIZANDOSE_AUN_MAS_PORQUE_TU_ROPA_SE_HARA_MAS_DURADERA rentabilizandose_aun_mas_porque_tu_ropa_se_hara_mas_duradera NP00000 1
+. . Fp 1
+
+EN_UNA_PALABRA_CALIDAD en_una_palabra_calidad NP00000 1
+, , Fc 1
+SERVICIO servicio NP00000 1
+, , Fc 1
+PRESTACIONES_Y_AHORRO_LA_BOSCH_WAE prestaciones_y_ahorro_la_bosch_wae NP00000 1
+24472 24472 Z 1
+EP_ES_TU_LAVADORA ep_es_tu_lavadora NP00000 1
+. . Fp 1
+

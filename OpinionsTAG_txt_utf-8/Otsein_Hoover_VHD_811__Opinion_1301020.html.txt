@@ -1,0 +1,55 @@
+MI_PRIORIDAD_ERA_NO_TENER_QUE_PONER mi_prioridad_era_no_tener_que_poner NP00000 1
+DOS 2 Z 0.991679
+LAVADORAS_A_EL_DIA lavadoras_a_el_dia NP00000 1
+, , Fc 1
+AQUI_PUEDES_LAVAR_TODO_LO_QUE_TENGAS_INCLUSO aqui_puedes_lavar_todo_lo_que_tengas_incluso NP00000 1
+, , Fc 1
+SI_LO_INTENTAS si_lo_intentas NP00000 1
+, , Fc 1
+PUEDES_LAVAR_A_LOS_NIÑOS puedes_lavar_a_los_niños NP00000 1
+. . Fp 1
+
+NO_ME_GUSTA_EL_EXCESO_DE_TECNOLOGIA_EN_LOS_ELECTRODOMESTICOS no_me_gusta_el_exceso_de_tecnologia_en_los_electrodomesticos NP00000 1
+, , Fc 1
+CREO_QUE_LUEGO_LA_MAS_PEQUEÑA_PEGA_SE_TRADUCE_EN_DOLOR_DE_CABEZA_Y_GASTO creo_que_luego_la_mas_pequeña_pega_se_traduce_en_dolor_de_cabeza_y_gasto NP00000 1
+. . Fp 1
+
+CON_ESTE_MODELO_TENGO_GRAN_CANTIDAD_DE_PROGRAMAS_QUE_SE_ACOPLAN_A_TODAS_LAS_NECESIDADES_REALES_DE_UNA_FAMILIA con_este_modelo_tengo_gran_cantidad_de_programas_que_se_acoplan_a_todas_las_necesidades_reales_de_una_familia NP00000 1
+, , Fc 1
+UN uno DI0MS0 0.987295
+PROGRAMA_DE_CENTRIFUGADO_YA_QUE_NO_PUEDES_PROGRAMAR_POR_ENCIMA_DE_LO_QUE_MARCA_EL_PROGRAMA_EN_REVOLUCIONES_O_TEMPERATURA programa_de_centrifugado_ya_que_no_puedes_programar_por_encima_de_lo_que_marca_el_programa_en_revoluciones_o_temperatura NP00000 1
+, , Fc 1
+TRES 3 Z 1
+PROGRAMAS_CORTOS programas_cortos NP00000 1
+( ( Fpa 1
+29 29 Z 1
+' ' Fe 1
+a a SPS00 0.996023
+54 54 Z 1
+' ' Fe 1
+) ) Fpt 1
+, , Fc 1
+EN_RESUMEN_TODO_LO_QUE_TIENEN_OTRAS_MUCHO_MAS_CARAS en_resumen_todo_lo_que_tienen_otras_mucho_mas_caras NP00000 1
+. . Fp 1
+
+POR_EL_CENTRIFUGADO_NO_TIENES_QUE_PREOCUPARTE_CON_SUS por_el_centrifugado_no_tienes_que_preocuparte_con_sus NP00000 1
+1100 1100 Z 1
+r.p.m. r.p.m. NCFN000 1
+HAY_MAS_QUE_SUFICIENTE_Y_SI_LE_PONES_EL_PLANCHADO_FACIL_ES_INCREIBLE_QUE_LA_ROPA_NO_SALGA_CON_ARRUGAS hay_mas_que_suficiente_y_si_le_pones_el_planchado_facil_es_increible_que_la_ropa_no_salga_con_arrugas NP00000 1
+. . Fp 1
+
+ME_AYUDO_A_DECIDIRME_LA_CONFIANZA_EN_ESTA_MARCA_DADO_QUE_MI_ANTERIOR_LAVADORA_TAMBIEN_FUE_OTSEIN me_ayudo_a_decidirme_la_confianza_en_esta_marca_dado_que_mi_anterior_lavadora_tambien_fue_otsein NP00000 1
+, , Fc 1
+AUNQUE_ERA_DE_CARGA_SUPERIOR aunque_era_de_carga_superior NP00000 1
+. . Fp 1
+
+EL_SILVIDO_QUE_HACE_CUANDO_CENTRIFUGA_ES_UN_DATO_A_TENER_EN_CUENTA el_silvido_que_hace_cuando_centrifuga_es_un_dato_a_tener_en_cuenta NP00000 1
+, , Fc 1
+SI_LA_TIENES_QUE_PONER_EN_LA_COCINA si_la_tienes_que_poner_en_la_cocina NP00000 1
+, , Fc 1
+RESULTA_ALGO_DESAGRADABLE resulta_algo_desagradable NP00000 1
+. . Fp 1
+
+EN_MI_CASO_LA_TENGO_FUERA_Y_NO_ME_MOLESTA en_mi_caso_la_tengo_fuera_y_no_me_molesta NP00000 1
+. . Fp 1
+

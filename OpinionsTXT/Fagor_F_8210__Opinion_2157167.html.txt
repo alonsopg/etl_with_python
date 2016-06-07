@@ -1,0 +1,27 @@
+
+No puedo hablar demasiado bien de este equipo. La verdad es que hay camisas de vestir que me las ha destrozado totalmente, en concreto me ha dejado cercos de detergente o antical que no salen con otros lavados.
+Posiblemente el problema haya sido el usar los ciclos cortos, que desde luego con detergente en polvo no me han dado buenos resultados.
+Sus características técnicas son excelente, pero para mí todo se queda ahí:
+Tipo de Lavado: Automático
+Construcción: Independiente
+Integrado: No
+Función Secado: No
+Tipo de Carga: Frontal
+Revoluciones por Minuto: 1000 rpm
+Capacidad de carga: 8 kg
+Material de la Puerta: Blanco
+Panelable: No
+Línea Eficiencia Energética (EU): A+++
+Eficiencia de Centrifugado: C
+Energía consumida por año in kWh: 196
+Agua consumida por año en litros: 11000
+Nivel de Ruido en Decibelios: 59 db
+Nivel de ruido de fase spinning en dB: 78
+Inicio Diferido: Sí
+Visor de Tiempo Restante: Sí
+Sistema Antidesbordamiento: No
+Display: Sí
+Función Vapor: No
+Alto: 85 cm
+Ancho: 59 cm
+Longitud (Centímetros): 59 cm

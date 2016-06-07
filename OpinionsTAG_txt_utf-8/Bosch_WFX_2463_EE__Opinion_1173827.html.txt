@@ -1,0 +1,32 @@
+COMO_TODOS_LOS_PRODUCTOS_DE_BOSCH como_todos_los_productos_de_bosch NP00000 1
+, , Fc 1
+ESTA_LAVADORA_DA_MUCHA_SEGURIDAD_A_LA_HORA_DE_USARLA_PORQUE_SABES_QUE_NO_ES_UN_PRODUCTO_DE_MALA_CALIDAD esta_lavadora_da_mucha_seguridad_a_la_hora_de_usarla_porque_sabes_que_no_es_un_producto_de_mala_calidad NP00000 1
+. . Fp 1
+
+SU_ROBUSTEZ_ES_APRECIABLE su_robustez_es_apreciable NP00000 1
+. . Fp 1
+
+AUNQUE_INCORPORA_MUCHOS_ELEMENTOS_ELECTRONICOS_SU_FIABILIDAD_ESTA_FUERA_DE_TODA_DUDA aunque_incorpora_muchos_elementos_electronicos_su_fiabilidad_esta_fuera_de_toda_duda NP00000 1
+. . Fp 1
+
+EL_USO_DE_EL_PROGRAMADOR_ES_MUY_SENCILLO el_uso_de_el_programador_es_muy_sencillo NP00000 1
+. . Fp 1
+
+LOS el DA0MP0 0.976427
+6 6 Z 1
+KG kg NP00000 1
+. . Fp 1
+
+SON_MUY_UTILES_A_LA_HORA_DE_LAVAR_Y_SUS son_muy_utiles_a_la_hora_de_lavar_y_sus NP00000 1
+1200 1200 Z 1
+REVOLUCIONES_DE_CENTRIFUGADO_POR_MINUTO_DE_GRAN_UTILIDAD_SI_NO_SE_TIENE_MUCHO_ESPACIO_DONDE_TENDER_LA_ROPA revoluciones_de_centrifugado_por_minuto_de_gran_utilidad_si_no_se_tiene_mucho_espacio_donde_tender_la_ropa NP00000 1
+. . Fp 1
+
+ADEMAS ademas NP00000 0.402329
+, , Fc 1
+EL_FILTRO_ESTA_MUY_ACCESIBLE_PARA_POSIBLES_ATASCOS_DE_LA_BOMBA el_filtro_esta_muy_accesible_para_posibles_atascos_de_la_bomba NP00000 1
+. . Fp 1
+
+ES_UNA_LAVADORA_MUY_RECOMENDABLE_HOGARES_DONDE_SE_LAVE_MUCHO es_una_lavadora_muy_recomendable_hogares_donde_se_lave_mucho NP00000 1
+. . Fp 1
+

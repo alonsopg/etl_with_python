@@ -1,0 +1,52 @@
+EN_MI_OPINION_COMO_AMA_DE_CASA en_mi_opinion_como_ama_de_casa NP00000 1
+, , Fc 1
+Y_QUE_TENGO_VARIOS_AÑOS_ESTA_LAVADORA_Bosch_WAE y_que_tengo_varios_años_esta_lavadora_bosch_wae NP00000 1
+24471 24471 Z 1
+EP_LA_UTILIZO_CASI_TODOS_LOS_DIAS ep_la_utilizo_casi_todos_los_dias NP00000 1
+, , Fc 1
+LAVO_TODA_LA_ROPA_DE_MI_FAMILIA lavo_toda_la_ropa_de_mi_familia NP00000 1
+, , Fc 1
+ES_QUE es_que NP00000 1
+, , Fc 1
+ES_RAPIDA es_rapida NP00000 1
+, , Fc 1
+NO_HACE_MUCHO_RUIDO_A_EL_TRABAJAR no_hace_mucho_ruido_a_el_trabajar NP00000 1
+, , Fc 1
+TIENE_UN_TAMBOR_DE_AMPLIA_CAPACIDAD tiene_un_tambor_de_amplia_capacidad NP00000 1
+, , Fc 1
+Y_LO_MEJOR_ES_FACIL_DE_USAR y_lo_mejor_es_facil_de_usar NP00000 1
+. . Fp 1
+
+DEJA_LA_ROPA_LIMPIA_Y_SUAVE_NO_LA_DAÑA deja_la_ropa_limpia_y_suave_no_la_daña NP00000 1
+. . Fp 1
+
+DEJA_LA_ROPA_CASI_SECA deja_la_ropa_casi_seca NP00000 1
+, , Fc 1
+Y_NO_SALE_ARRUGADA y_no_sale_arrugada NP00000 1
+. . Fp 1
+
+POR_LO_CUAL_HASTA_ME_AHORRO_ENERGIA_ELECTRICA_PARA_PLANCHARLA_ES_UNA_MAQUINA_DE_LAVADO_COMO_SI_LO_HICIERA_CON_MIS_PROPIAS_MANOS por_lo_cual_hasta_me_ahorro_energia_electrica_para_plancharla_es_una_maquina_de_lavado_como_si_lo_hiciera_con_mis_propias_manos NP00000 1
+. . Fp 1
+
+MUY_BUENA muy_buena NP00000 1
+. . Fp 1
+
+NO_LO_CAMBIO_POR_NADA_CON_ESTA_LAVADORA_AHORRAS_ENERGIA no_lo_cambio_por_nada_con_esta_lavadora_ahorras_energia NP00000 1
+, , Fc 1
+DINERO dinero NP00000 1
+, , Fc 1
+TIEMPO tiempo NP00000 1
+, , Fc 1
+EL_CUAL_PODRAS_DISFRUTAR_CON_TU_FAMILIA_MIENTRAS_ESTA_LAVADORA_LAVA_POR_TI el_cual_podras_disfrutar_con_tu_familia_mientras_esta_lavadora_lava_por_ti NP00000 1
+. . Fp 1
+
+EL_PRECIO_NO_TIENE_COMPRACION el_precio_no_tiene_compracion NP00000 1
+. . Fp 1
+
+ESTA_LAVADORA_ATACA_DIRECTAMENTRE_A_LA_SUCIEDAD_Y_LA_MUGRE_Y_ES_SUAVE_CON_SUS_PRENDAS_FAVORITAS_NO_LO_OLVIDE_ES_LA_MEJOR_DE_EL_MERCADO esta_lavadora_ataca_directamentre_a_la_suciedad_y_la_mugre_y_es_suave_con_sus_prendas_favoritas_no_lo_olvide_es_la_mejor_de_el_mercado NP00000 1
+. . Fp 1
+
+Bosch_WAE bosch_wae NP00000 1
+24471 24471 Z 1
+EP ep NP00000 1
+

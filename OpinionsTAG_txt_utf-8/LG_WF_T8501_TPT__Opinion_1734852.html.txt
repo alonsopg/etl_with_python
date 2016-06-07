@@ -1,0 +1,46 @@
+MI_EXPERIENCIA_CON_ESTA_LAVADORA mi_experiencia_con_esta_lavadora NP00000 1
+, , Fc 1
+HA_SIDO_MUY_BUENA ha_sido_muy_buena NP00000 1
+, , Fc 1
+TIENE_UN_MANEJO_FACIL_Y_SENCILLO tiene_un_manejo_facil_y_sencillo NP00000 1
+, , Fc 1
+ECONOMICO_PUES_ELLAS_TIENE_UN_FUNCIONAMIENTO_INTELIGENTE_QUE_TE_AHORRA_AGUA economico_pues_ellas_tiene_un_funcionamiento_inteligente_que_te_ahorra_agua NP00000 1
+, , Fc 1
+Y_ENERGIA_Y_DETERGENTE y_energia_y_detergente NP00000 1
+, , Fc 1
+LO_QUE_TENEMOS_EN_CONCLUSION_QUE_ESTE_AHORRO_VA_DIRECTO_A_TU_BOLSILLO lo_que_tenemos_en_conclusion_que_este_ahorro_va_directo_a_tu_bolsillo NP00000 1
+. . Fp 1
+
+EL_PANEL_ES_TOTALMENTE_ELECTRONICO_Y_DIGITAL_TU_PROGRAMAS_EL_TIPO_DE_ROPA el_panel_es_totalmente_electronico_y_digital_tu_programas_el_tipo_de_ropa NP00000 1
+, , Fc 1
+SU_TEXTURA su_textura NP00000 1
+, , Fc 1
+SI_ES_MUY_SUCIA si_es_muy_sucia NP00000 1
+, , Fc 1
+O_NO_Y_LA_LAVADORA_SE_ENCARGA_DE_ACUERDO_A_LO_QUE_TU_HAS_PUESTO_DE_VER_CUANTA_AGUA o_no_y_la_lavadora_se_encarga_de_acuerdo_a_lo_que_tu_has_puesto_de_ver_cuanta_agua NP00000 1
+, , Fc 1
+DETERGENTE_Y_FUERZA_NECESITAS_PARA_ESE_LAVADO detergente_y_fuerza_necesitas_para_ese_lavado NP00000 1
+. . Fp 1
+
+ES_SUPER_SILENCIOSA es_super_silenciosa NP00000 1
+, , Fc 1
+TIENE_MUY_POCA_VIBRACION tiene_muy_poca_vibracion NP00000 1
+, , Fc 1
+EL_CENTRIFUGADO_TE_DEJA_LA_ROPA_CASI_SECA el_centrifugado_te_deja_la_ropa_casi_seca NP00000 1
+, , Fc 1
+DEPENDIENDO_DE_LA_TEXTURA_DE_LA_ROPA_SE_PUEDE_DECIR_QUE_HAY_ROPA_QUE_LA_TIENDES_UNOS_MINUTOS_Y_YA_ESTA_LISTA_TOTALMENTE_SECA dependiendo_de_la_textura_de_la_ropa_se_puede_decir_que_hay_ropa_que_la_tiendes_unos_minutos_y_ya_esta_lista_totalmente_seca NP00000 1
+, , Fc 1
+PARA_MI_ES_EXELENTE para_mi_es_exelente NP00000 1
+, , Fc 1
+ESTA_MARCA_LG_ES_MUY_RECONOCIDA esta_marca_lg_es_muy_reconocida NP00000 1
+, , Fc 1
+TIENE_MUY_BUENOS_PRODUCTOS_Y_ESTE_ES tiene_muy_buenos_productos_y_este_es NP00000 1
+UNO uno PI0MS000 0.969022
+DE_ELLOS de_ellos NP00000 1
+. . Fp 1
+
+SI_COMPRAS_NO_TE_VAS_ARREPENTIR si_compras_no_te_vas_arrepentir NP00000 1
+, , Fc 1
+HABRAS_ECHO_UNA_EXELENTE_INVERSION habras_echo_una_exelente_inversion NP00000 1
+. . Fp 1
+

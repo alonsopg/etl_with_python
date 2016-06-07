@@ -1,0 +1,19 @@
+
+Bosch WAE 2446 XEE
+
+
+Hola a todos, realmente nose como funciona por que nunca la eh usado pero mi madre esta muy contenta y conforme de tenerla.. dice que es tan completa y tan linda que hace todo por ella!!
+la compramos hace unos meses de una cosa de electrodomésticos, la que tengo en casa es blanca y me gusta mas que la que esta en la foto... lo que si puedo decir que tiene muy linda pinta y lo que mas me gusta es la pantallita que tiene donde podes programar cuanto tiempo, que tipo de ropa , etc... mi abuela la envidia mi vieja por tenerla!!
+
+";Ficha Tecnica (sacada del manual)";
+TipoLavadora: MarcaBosch 
+TipoSolo: lavadora 
+Tipo de carga: Carga frontal 
+Carga: 6 kg 
+Velocidad de centrifugado:1200rpm 
+Clase energéticaA+ Eficiencia de lavadoA 
+Eficiencia de centrifugado 
+Diseño Independiente 
+Consumo de agua 45 litros 
+Consumo de energía (en 60° C)1,02kWh 
+Descripción: Longitud60 cm, Altura85 cm

@@ -1,0 +1,34 @@
+COMPRE_UNA_LAVADORA_DE_ESTA_MARCA_EL_MODELO compre_una_lavadora_de_esta_marca_el_modelo NP00000 1
+1150 1150 Z 1
+EL_RESULTADO_PARA_PONERSE_A_LLORAR el_resultado_para_ponerse_a_llorar NP00000 1
+. . Fp 1
+
+EN en SPS00 0.524293
+DOS 2 Z 0.991679
+AÑOS_Y años_y NP00000 1
+CUATRO 4 Z 1
+MESES_SE_HA_ESTROPEADO meses_se_ha_estropeado NP00000 1
+CUATRO 4 Z 1
+VECES veces NP00000 1
+. . Fp 1
+
+LA_DISTRIBUIDORA_CARREFOUR_Y_NEW_POL_DICEN_QUE_FUERA_DE_GARANTIA_NO_SE_PUEDE_HACER_NADA la_distribuidora_carrefour_y_new_pol_dicen_que_fuera_de_garantia_no_se_puede_hacer_nada NP00000 1
+, , Fc 1
+YO_HE_TENIDO_QUE_TIRARLA_A_LA_BASURA yo_he_tenido_que_tirarla_a_la_basura NP00000 1
+. . Fp 1
+
+POR_FAVOR por_favor RG 1
+, , Fc 1
+NUNCA nunca NP00000 1
+, , Fc 1
+NUNCA nunca NP00000 1
+, , Fc 1
+NUNCA_COMPREIS_NEW_POL_DE_MOMENTO_HE_PUESTO_UNA_DENUNCIA_EN_CONSUMO_COMENTARLO_ES_LO_UNICO_QUE_PUEDO_HACER_ES_DESACONSEJARLA_PARA_QUE_NADIE_COMPRE_ESTA_LAVADORA nunca_compreis_new_pol_de_momento_he_puesto_una_denuncia_en_consumo_comentarlo_es_lo_unico_que_puedo_hacer_es_desaconsejarla_para_que_nadie_compre_esta_lavadora NP00000 1
+, , Fc 1
+LO_PEOR_ES_QUE_NO_ENTIENDEN_QUE_NO_ES_NORMAL_QUE_SE_ROMPA_TANTAS_VECES_EN_TAN_POCO_TIEMPO lo_peor_es_que_no_entienden_que_no_es_normal_que_se_rompa_tantas_veces_en_tan_poco_tiempo NP00000 1
+. . Fp 1
+
+RECORDAR recordar NP00000 0.500957
+, , Fc 1
+NUNCA_NUNCA_NUNCA_NEW_POL nunca_nunca_nunca_new_pol NP00000 1
+

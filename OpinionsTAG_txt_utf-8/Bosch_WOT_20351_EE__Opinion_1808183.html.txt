@@ -1,0 +1,37 @@
+100_% 100/100 Zp 1
+RECOMENDABLE recomendable NP00000 1
+. . Fp 1
+
+NO_COMPREN_EL_DE_CARGA_FRONTAL no_compren_el_de_carga_frontal NP00000 1
+. . Fp 1
+
+INDEPENDIENTEMENTE_DE_LA_MARCA_O_EL_MODELO independientemente_de_la_marca_o_el_modelo NP00000 1
+, , Fc 1
+EL_SISTEMA_DE_CARGA_SUPERIOR_ES_INFINITAMENTE_SUPERIOR_A_EL_FRONTAL el_sistema_de_carga_superior_es_infinitamente_superior_a_el_frontal NP00000 1
+. . Fp 1
+
+LA_FORMA_DE_TRABAJAR_DE_EL_MOTOR_Y_LOS_ELEMENTOS_DE_EL_MISMO_SON_MUCHO_MAS_ESTABLES_Y_RESISTENTES_EN_EL_TIEMPO la_forma_de_trabajar_de_el_motor_y_los_elementos_de_el_mismo_son_mucho_mas_estables_y_resistentes_en_el_tiempo NP00000 1
+. . Fp 1
+
+BASTA_CON_VER_LAS_GARANTIAS_DE basta_con_ver_las_garantias_de NP00000 1
+UNO uno PI0MS000 0.969022
+Y_OTRO_PARA_DARSE_CUENTA_LA_CONFIABILIDAD_QUE_LAS_MIMAS_CASAS_DE_ELECTRODOMESTICOS y_otro_para_darse_cuenta_la_confiabilidad_que_las_mimas_casas_de_electrodomesticos NP00000 1
+, , Fc 1
+Y_LAS_MISMAS_MARCAS y_las_mismas_marcas NP00000 1
+, , Fc 1
+LE_TIENEN_A_LOS_PRODUCTOS_EN_CUANTO_A_SU_DURABILIDAD le_tienen_a_los_productos_en_cuanto_a_su_durabilidad NP00000 1
+. . Fp 1
+
+RESPECTO_DE respecto_de SPS00 1
+LA_ESTABILIDAD_SON_TERRIBLEMENTE_CONFIABLES la_estabilidad_son_terriblemente_confiables NP00000 1
+: : Fd 1
+NO_HACE_FALTA_MONTARLO_SOBRE_UNA_SUPERFICIE_EN_PARTICULAR no_hace_falta_montarlo_sobre_una_superficie_en_particular NP00000 1
+, , Fc 1
+COMO_SER_TARIMAS_O_PISOS_POROSOS_U_OTROS_YAQUE_LAS_VIBRACIONES_SON_MINIMAS_INCLUSO_DURANTE_EL_CENTRIFUGADO como_ser_tarimas_o_pisos_porosos_u_otros_yaque_las_vibraciones_son_minimas_incluso_durante_el_centrifugado NP00000 1
+. . Fp 1
+
+LA_POTENCIA_ES_IMPRESIONANTE_A_EL_PUNTO_DE_DEJAR_LAS_PRENDAS_PARA_USAR_A_LAS_HORAS_DE_EL_LAVADO la_potencia_es_impresionante_a_el_punto_de_dejar_las_prendas_para_usar_a_las_horas_de_el_lavado NP00000 1
+. . Fp 1
+10 10 Z 1
+PUNTOS puntos NP00000 1
+. . Fp 1
